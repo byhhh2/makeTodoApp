@@ -2,6 +2,8 @@
 ## Todo App
 
 ![display](https://github.com/byhhh2/makeTodoApp/blob/master/TodoApp.PNG?raw=true)
+---
+구조 참고 : https://www.notion.so/chapter-3-todo-App-ea3aefd119c94b918f08d68fa48a219f
 
 ---
 
